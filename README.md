@@ -1,4 +1,3 @@
-<!-- Выравниваем приветствие и плашки по центру, чтобы смотрелось сочно -->
 <div align="center">
 
 # Привет! Я начинающий Web-Developer 🚀
@@ -9,7 +8,7 @@
 <br>
 
 ### 🛠️ Мой стек технологий и инструменты:
-<!-- Плашки языков и технологий, которые ты знаешь и используешь -->
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
