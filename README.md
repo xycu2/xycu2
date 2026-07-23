@@ -3,7 +3,7 @@
 # Hi! I'm a beginner web developer 🚀
 
 Hello! My name is xycu. I've been studying web development for **1.4 years**! 
-Активно развиваюсь во фронтенде, постоянно прокачиваю навыки и делюсь своим путём.
+I'm actively developing my front-end skills, constantly improving them, and sharing my journey.
 
 <br>
 
