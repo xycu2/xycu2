@@ -2,7 +2,7 @@
 
 # Hi! I'm a beginner web developer 🚀
 
-Hello! My name is xycu. Я изучаю веб-разработку уже **1.4 года**! 
+Hello! My name is xycu. I've been studying web development for **1.4 years**! 
 Активно развиваюсь во фронтенде, постоянно прокачиваю навыки и делюсь своим путём.
 
 <br>
