@@ -21,7 +21,7 @@ I'm actively developing my front-end skills, constantly improving them, and shar
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xycu2/xycu2/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🎯 Мой план и цели на лето 2026:
+## 🎯 My plan and goals for Summer 2026:
 * 💻 **Каждый день — код:** Программирую абсолютно каждый день без исключений, чтобы довести базовые навыки до автоматизма!
 * 🏗️ **Летний марафон проектов:** Буду верстать и собирать много реальных проектов для портфолио.
 * 🚀 **Новые технологии:** 
