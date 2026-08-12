@@ -25,7 +25,7 @@ I'm actively developing my front-end skills, constantly improving them, and shar
 * 💻 **Code Every Day:** I program absolutely every day without exception, to bring basic skills to the point of automaticity!
 * 🏗️ **Summer Project Marathon:** I will be laying out and collecting many real projects for my portfolio.
 * 🚀 **New technologies:**
-  * Understand completely, как работает препроцессор **SCSS**, чтобы писать стили быстрее и чище.
+  * Understand completely,How does the **SCSS** preprocessor work? чтобы писать стили быстрее и чище.
   * Изучу фреймворк **Vue.js** для создания сложных и крутых веб-приложений.
 
 <br>
