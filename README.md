@@ -24,7 +24,7 @@ I'm actively developing my front-end skills, constantly improving them, and shar
 ## 🎯 My plan and goals for Summer 2026:
 * 💻 **Code Every Day:** I program absolutely every day without exception, to bring basic skills to the point of automaticity!
 * 🏗️ **Summer Project Marathon:** I will be laying out and collecting many real projects for my portfolio.
-* 🚀 **Новые технологии:** 
+* 🚀 **New technologies:**
   * Полностью разобраться, как работает препроцессор **SCSS**, чтобы писать стили быстрее и чище.
   * Изучу фреймворк **Vue.js** для создания сложных и крутых веб-приложений.
 
