@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&height=50&lines=Hi+there!+I'm+Xycu;Front-End+Developer;Vue+3+%2B+Node.js" alt="Typing SVG" />
+  </a>
+</p>
 <div align="center">
 
 # Hi! I'm a beginner web developer 🚀
