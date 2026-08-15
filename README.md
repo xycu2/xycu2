@@ -26,6 +26,6 @@ I'm actively developing my front-end skills, constantly improving them, and shar
 * 🏗️ **Summer Project Marathon:** I will be laying out and collecting many real projects for my portfolio.
 * 🚀 **New technologies:**
   * Understand completely,How does the **SCSS** preprocessor work, to write styles faster and cleaner.
-  * Изучу фреймворк **Vue.js** для создания сложных и крутых веб-приложений.
+  * I will study фреймворк **Vue.js** для создания сложных и крутых веб-приложений.
 
 <br>
