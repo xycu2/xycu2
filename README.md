@@ -5,7 +5,7 @@
 </p>
 <div align="center">
 
-# Hi! I'm a beginner web developer 🚀
+# Hi, I'm a web developer. 🚀
 
 Hello! My name is xycu. I've been studying web development for **1.4 years**! 
 I'm actively developing my front-end skills, constantly improving them, and sharing my journey.
