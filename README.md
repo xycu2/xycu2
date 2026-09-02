@@ -30,5 +30,6 @@ I'm actively developing my front-end skills, constantly improving them, and shar
 
 * 📘 **Master TypeScript:** Deeply study TypeScript fundamentals, types, interfaces, and advanced features to write clean, type-safe code.
 * 🔄 **Refactor Existing Projects:** Rewrite several previous projects in TypeScript to consolidate knowledge and improve overall code quality.
+* 🚀 **Practical Application:** Apply TypeScript in real-world practice by building interactive web apps and full-stack projects.
 
 <br>
