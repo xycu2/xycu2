@@ -29,7 +29,7 @@ I'm actively developing my front-end skills, constantly improving them, and shar
 ## 🎯 My plan and goals for October 2026:
 
 * 📚 **Review TypeScript Fundamentals:** Continuously repeat core concepts, types, and advanced patterns to keep knowledge fresh and solid.
-* 🔄 **Refactor Existing Projects:** Rewrite several previous projects in TypeScript to consolidate knowledge and improve overall code quality.
+* 💻 **Hands-On Practice & Projects:** Actively practice by building real-world interactive web applications and full-stack projects.
 * 🚀 **Practical Application:** Apply TypeScript in real-world practice by building interactive web apps and full-stack projects.
 
 <br>
