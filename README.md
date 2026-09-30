@@ -26,7 +26,7 @@ I'm actively developing my front-end skills, constantly improving them, and shar
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xycu2/xycu2/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🎯 My plan and goals for September 2026:
+## 🎯 My plan and goals for October 2026:
 
 * 📘 **Master TypeScript:** Deeply study TypeScript fundamentals, types, interfaces, and advanced features to write clean, type-safe code.
 * 🔄 **Refactor Existing Projects:** Rewrite several previous projects in TypeScript to consolidate knowledge and improve overall code quality.
